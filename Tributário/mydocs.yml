@@ -1,0 +1,4 @@
+site_name: Sistema GPI
+nav:
+  - Home: index.md
+  - About: about.md
